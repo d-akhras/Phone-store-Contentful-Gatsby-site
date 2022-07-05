@@ -11,9 +11,7 @@ const FAQPage = ({data}) => {
   <Layout>
     <SEO title="FAQ Page" />
     <h3>FAQs</h3>
-  
- 
-   
+     
       <table class="not-spesc">
         <thead>
           <tr>

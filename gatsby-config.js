@@ -10,6 +10,7 @@ module.exports = {
       options: {
         spaceId: `tkkoipefq1j3`,
         accessToken: `06uH-JlfBoX4gqplxKQVNfzq6WGBH-KZyMPnZCOHz4U`,
+       // host: `preview.contentful.com`,
                 
       },
     },
