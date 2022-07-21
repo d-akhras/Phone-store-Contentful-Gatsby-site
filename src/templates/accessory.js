@@ -84,7 +84,7 @@ const Accessory = ({ data }) => {
     </tr>
     <tr>
       <th>Product Description/ Special Features</th>
-      <td>{post.productDescription.productDescription} </td>
+      <td>{(post.productDescription === null ? "___" : post.productDescription.productDescription)} </td>
     </tr>
   </tbody>
 </table>
